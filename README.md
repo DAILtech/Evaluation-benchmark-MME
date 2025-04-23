@@ -14,7 +14,7 @@ This ensures all evaluation data is well-organized. We strongly recommend placin
 
 ### Step 2: Clone the MME Evaluation Benchmark
 
-Now, clone the benchmark repository:\\
+Now, clone the benchmark repository:\  
 ```
 git clone https://github.com/DAILtech/Evaluation-benchmark-MME/
 ```

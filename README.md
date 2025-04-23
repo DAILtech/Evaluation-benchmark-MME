@@ -1,6 +1,6 @@
 ## Clone the Required Repositories for MME Evaluation Benchmark
 
-To streamline the use of the MME Benchmark, we have consolidated all the necessary repositories and configured them for one-button deployment. Follow the steps below to get started. We take LVLM llava as an example.
+To streamline the use of the MME Benchmark, we have consolidated all the necessary repositories and configured them for one-button deployment. Follow the steps below to get started. We take LVLM LLaVA as an example.
 
 ### Step 1: Directory Setup
 

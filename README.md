@@ -22,6 +22,11 @@ This repository contains everything needed for running the MME Benchmark in one 
 
 Put the files out of the `Evaluation-benchmark-MME` folder, then make a folder named `answers` in `eval/MME`, like `eval/MME/answers`
 
+```bash
+mkdir -p LLaVA/playground/data/eval/MME/answers
+```
+
+
 ### Step 3: Run evaluation command 
 (your should in `LLaVA` folder)
 ```bash

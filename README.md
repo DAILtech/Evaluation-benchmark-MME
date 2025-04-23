@@ -18,7 +18,9 @@ Now, clone the benchmark repository:
 ```
 git clone https://github.com/DAILtech/Evaluation-benchmark-MME/
 ```
-This repository contains everything needed for running the MME Benchmark in one go.
+This repository contains everything needed for running the MME Benchmark in one go.  
+
+Put the files out of the `Evaluation-benchmark-MME` folder, then make a folder named `answers` in `eval/MME`, like `eval/MME/answers`
 
 ### Step 3: Run evaluation command 
 (your should in `LLaVA` folder)

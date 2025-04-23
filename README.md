@@ -4,7 +4,7 @@ To streamline the use of the MME Benchmark, we have consolidated all the necessa
 
 ### Step 1: Directory Setup
 
-Begin by creating the required directory structure inside your LLaVA workspace:
+Begin by creating the required directory structure inside your LLaVA workspace:  
 
 ```bash
 mkdir -p LLaVA/playground/data/eval/MME
@@ -14,7 +14,7 @@ This ensures all evaluation data is well-organized. We strongly recommend placin
 
 ### Step 2: Clone the MME Evaluation Benchmark
 
-Now, clone the benchmark repository:\  
+Now, clone the benchmark repository:    
 ```
 git clone https://github.com/DAILtech/Evaluation-benchmark-MME/
 ```
